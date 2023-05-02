@@ -1,0 +1,15 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "creates prime number list and measures performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mujahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pidusage": "^3.0.2"
+  }
+}
